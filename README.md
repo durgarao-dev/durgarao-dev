@@ -68,7 +68,11 @@ These are some of the ideas and projects I plan to work on soon:
 ## 📈 GitHub Stats
 
 <picture>
-  <img src="https://github-readme-stats.vercel.app/api?username=durgarao-dev&show_icons=true&theme=radical" alt="Your GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=durgarao-dev&layout=compact&theme=radical" />
+
+</picture>
+
+
 </picture>
 
 ---
