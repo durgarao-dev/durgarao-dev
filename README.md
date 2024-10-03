@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Welcome to my [GitHub profile!](https://github.com/durgarao-dev/durgarao-dev/) I'm a software developer with a passion for creating efficient, scalable applications. Below you I've included an overview of my projects, skills, and the ideas I'm working on below🛠️ Technologies & Tools
+Welcome to my [GitHub profile!](https://github.com/durgarao-dev/durgarao-dev/) I'm a software developer with a passion for creating efficient, scalable applications. Below I've included an overview of my projects, skills, and the ideas I'm working on below🛠️ Technologies & Tools
 
-- **Languages**: Python, JavaScript
-- **Frameworks & Libraries**: React,
+- **Languages**: Python, JavaScript, Java
+- **Frameworks & Libraries**: React
 - **Tools**: Postman, Jest, Docker, Git, CI/CD (Jenkins, GitHub Actions)
 - **APIs**: OpenWeatherMap, RESTful APIs
 
